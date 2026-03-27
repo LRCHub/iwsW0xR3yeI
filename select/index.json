@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DUMBAI",
+  "base_artist": "CA7RIEL & Paco Amoroso",
+  "createdAt": "2026-03-27T01:32:38.800854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DUMBAI",
+      "artist": "CA7RIEL & Paco Amoroso",
+      "has_synced": true,
+      "path": "select/01_DUMBAI_CA7RIEL_&_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DUMBAI",
+      "artist": "CA7RIEL, Paco Amoroso & CA7RIEL & Paco Amoroso",
+      "has_synced": true,
+      "path": "select/02_DUMBAI_CA7RIEL,_Paco_Amoroso_&_CA7RIEL_&_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DUMBAI",
+      "artist": "CA7RIEL & Paco Amoroso",
+      "has_synced": true,
+      "path": "select/03_DUMBAI_CA7RIEL_&_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DUMBAI",
+      "artist": "Paco Amoroso",
+      "has_synced": true,
+      "path": "select/04_DUMBAI_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DUMBAI",
+      "artist": "CA7RIEL",
+      "has_synced": true,
+      "path": "select/05_DUMBAI_CA7RIEL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DUMBAI (En Vivo - Buenos Aires)",
+      "artist": "CA7RIEL & Paco Amoroso",
+      "has_synced": true,
+      "path": "select/06_DUMBAI_(En_Vivo_-_Buenos_Aires)_CA7RIEL_&_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DUMBAI - Live at NPR MUSIC's Tiny Desk",
+      "artist": "CA7RIEL & Paco Amoroso",
+      "has_synced": true,
+      "path": "select/07_DUMBAI_-_Live_at_NPR_MUSIC's_Tiny_Desk_CA7RIEL_&_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DUMBAI",
+      "artist": "CA7RIEL & Paco Amoroso, Ca7riel, Paco Amoroso",
+      "has_synced": true,
+      "path": "select/08_DUMBAI_CA7RIEL_&_Paco_Amoroso,_Ca7riel,_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DUMBAI - Live at NPR MUSIC's Tiny Desk",
+      "artist": "CA7RIEL & Paco Amoroso",
+      "has_synced": true,
+      "path": "select/09_DUMBAI_-_Live_at_NPR_MUSIC's_Tiny_Desk_CA7RIEL_&_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "DUMBAI (Live at NPR MUSIC's Tiny Desk)",
+      "artist": "Paco Amoroso",
+      "has_synced": true,
+      "path": "select/10_DUMBAI_(Live_at_NPR_MUSIC's_Tiny_Desk)_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DUMBAI (Live at NPR MUSIC's Tiny Desk)",
+      "artist": "CA7RIEL",
+      "has_synced": true,
+      "path": "select/11_DUMBAI_(Live_at_NPR_MUSIC's_Tiny_Desk)_CA7RIEL.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "dumbai",
+      "artist": "ca7riel & paco amoroso/ ca7riel/ paco amoroso",
+      "has_synced": true,
+      "path": "select/12_dumbai_ca7riel_&_paco_amoroso__ca7riel__paco_amoroso.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DUMBAI",
+      "artist": "CA7RIEL & Paco Amoroso, CA7RIEL, Paco Amoroso",
+      "has_synced": true,
+      "path": "select/13_DUMBAI_CA7RIEL_&_Paco_Amoroso,_CA7RIEL,_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "dumbai",
+      "artist": "ca7riel   paco amoroso",
+      "has_synced": true,
+      "path": "select/14_dumbai_ca7riel_paco_amoroso.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DUMBAI (Live at NPR MUSIC's Tiny Desk)",
+      "artist": "CA7RIEL & Paco Amoroso, Ca7riel, Paco Amoroso",
+      "has_synced": true,
+      "path": "select/15_DUMBAI_(Live_at_NPR_MUSIC's_Tiny_Desk)_CA7RIEL_&_Paco_Amoroso,_Ca7riel,_Paco_Amoroso.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dumbai",
+      "artist": "Ca7riel & Paco Amoroso",
+      "has_synced": false,
+      "path": "select/pl_01_Dumbai_Ca7riel_&_Paco_Amoroso.txt"
+    }
+  ]
+}
